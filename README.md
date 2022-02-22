@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZanezzGP
+- 👋 Hi, I’m @GHParkinson
 - 👀 I’m interested in collaborative projects to improve upon skills.
 - 🌱 I’m currently learning PHP, MySQL, HTML5, C#
 - 💞️ I’m looking to collaborate on ...
